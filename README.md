@@ -2,7 +2,6 @@
 
 
 Conducted a thorough data analysis using Power BI and have derived various insights related to sales, brand performance, model ratings, and discounts.
-
 ➢ Brand Sales Distribution:
 ➢ Employed effective visualizations to showcase the distribution of sales among different brands. Revealed that the brand "Realme" accounted for an impressive 33.63% of the total sales, underscoring its substantial market share.
 ➢ Processor Utilization Analysis:
